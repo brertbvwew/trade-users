@@ -16,7 +16,7 @@
       "username": "test1",
       "password": "1234567",
       "role": "user",
-      "credits": 1,
+      "credits": 0,
       "isVIP": false,
       "hasAIAccess": true,
       "ip": "::1",
