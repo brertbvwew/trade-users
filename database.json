@@ -12,7 +12,7 @@
       "id": "1778406523945",
       "username": "test1",
       "password": "1234567",
-      "role": "admin",
+      "role": "user",
       "credits": 0,
       "isVIP": false
     }
