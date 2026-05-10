@@ -6,7 +6,8 @@
       "password": "1234567",
       "role": "owner",
       "credits": 1,
-      "isVIP": false
+      "isVIP": false,
+      "hasAIAccess": true
     },
     {
       "id": "1778406523945",
@@ -14,7 +15,8 @@
       "password": "1234567",
       "role": "user",
       "credits": 0,
-      "isVIP": false
+      "isVIP": false,
+      "hasAIAccess": false
     }
   ]
 }
