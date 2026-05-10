@@ -8,6 +8,15 @@
       "credits": 1,
       "isVIP": false,
       "hasAIAccess": true
+    },
+    {
+      "id": "1778408468549",
+      "username": "test1",
+      "password": "1234567",
+      "role": "user",
+      "credits": 1,
+      "isVIP": false,
+      "hasAIAccess": false
     }
   ]
 }
